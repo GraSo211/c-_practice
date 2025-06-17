@@ -6,9 +6,10 @@ class MainClass
     {
 
 
-        const string greeting = "Hello, World!";
+
+        Console.WriteLine("This is the first line\nthis is the secondline");
 
 
-        Console.WriteLine(greeting);
+
     }
 }
